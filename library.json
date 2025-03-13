@@ -1,0 +1,44 @@
+[
+  {
+    "title":"Python Crash Course",
+    "author":"Eric Matthes",
+    "publication_year":2019,
+    "Read_status":false,
+    "Added_data":"2025-03-11 11:36:40"
+  },
+    {
+        "title": "Fluent Python",
+        "author": "Luciano Ramalho",
+        "publication_year": 2022,
+        "Read_status": False,
+        "Added_data": "2025-03-13 10:00:00"
+    },
+    {
+        "title": "Effective Python",
+        "author": "Brett Slatkin",
+        "publication_year": 2020,
+        "Read_status": False,
+        "Added_data": "2025-03-13 10:05:00"
+    },
+  {
+        "title": "Automate the Boring Stuff with Python",
+        "author": "Al Sweigart",
+        "publication_year": 2019,
+        "Read_status": true,
+        "Added_data": "2025-03-13 10:10:00"
+    },
+    {
+        "title": "Python Tricks",
+        "author": "Dan Bader",
+        "publication_year": 2018,
+        "Read_status": False,
+        "Added_data": "2025-03-13 10:15:00"
+    },
+  {
+        "title": "Serious Python",
+        "author": "Julien Danjou",
+        "publication_year": 2018,
+        "Read_status": False,
+        "Added_data": "2025-03-13 10:20:00"
+    }
+]
